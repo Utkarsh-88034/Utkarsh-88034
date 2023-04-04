@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -62,3 +62,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-88034&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarsh-88034&count_private=true&show_icons=true&theme=vision-friendly-dark)
